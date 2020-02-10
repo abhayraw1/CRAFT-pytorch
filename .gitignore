@@ -4,3 +4,6 @@
 *.pth
 result*
 weights*
+step_images
+cropped_imgs
+figures
